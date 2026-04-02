@@ -9,13 +9,14 @@ The solutions are organized by their problem number and title for easy navigatio
 ## Progress Summary
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 2 |
+| 🟢 Easy | 3 |
 | 🟡 Medium |	0 |
 | 🔴 Hard | 0 |
-| **Total** | 2 |
+| **Total** | 3 |
 
 ## Featured Solutions
 | # | Title | Difficulty | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](./Easy/001_Two_Sum.py) | 🟢 Easy | Python |
 | 9 | [Palindrome Number](./Easy/009_Palindrome_Number.py) | 🟢 Easy | Python |
+| 13 | [Roman to Integer](./Easy/012_Roman_to_Integer.py) | 🟢 Easy | Python |
