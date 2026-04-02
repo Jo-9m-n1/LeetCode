@@ -9,12 +9,13 @@ The solutions are organized by their problem number and title for easy navigatio
 ## Progress Summary
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 1 |
+| 🟢 Easy | 2 |
 | 🟡 Medium |	0 |
 | 🔴 Hard | 0 |
-| **Total** | 1 |
+| **Total** | 2 |
 
 ## Featured Solutions
 | # | Title | Difficulty | Language |
 | :--- | :--- | :--- | :--- |
+| 1 | [Two Sum](./Easy/001_Two_Sum.py) | 🟢 Easy | Python |
 | 9 | [Palindrome Number](./Easy/009_Palindrome_Number.py) | 🟢 Easy | Python |
